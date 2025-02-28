@@ -6,14 +6,15 @@ A **Jetpack Compose** currency converter application that allows users to conver
 
 ## 📌 Features
 
-**Modularized**
-**Jetpack Compose UI**  
+**Modularized** project structure for scalability
+
+**Jetpack Compose UI** with Material3 
+
 **Currency conversion** using live exchange rates from [Fixer.io](https://fixer.io/)  
 **MVVM Architecture** for clean code organization  
 **Retrofit** for network requests  
 **Coroutines & Flow** for asynchronous operations  
 **Hilt** for dependency injection  
-**Material 3** design implementation  
 
 ---
 

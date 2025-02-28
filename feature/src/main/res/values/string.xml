@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu">Menu</string>
+    <string name="sign_up">Sign up</string>
+    <string name="currency">Currency</string>
+    <string name="calculator">Calculator.</string>
+    <string name="one">1</string>
+    <string name="eur">EUR</string>
+    <string name="four_point_two_six_four">4.264</string>
+    <string name="eight_twenty">820</string>
+    <string name="pln">PLN</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="convert">Convert</string>
+    <string name="mid_market_rate">Mid-market exchange rate at 13:38 UTC</string>
+    <string name="information">Information</string>
+
+    <string name="past_30_days">Past 30 Days</string>
+    <string name="past_90_days">Past 90 Days</string>
+    <string name="exchange_rate">%1$s = %2$s</string>
+    <string name="rate_alerts">Get rate alerts straight to your email inbox</string>
+</resources>

@@ -6,7 +6,8 @@ A **Jetpack Compose** currency converter application that allows users to conver
 
 ## 📌 Features
 
- **Jetpack Compose UI**  
+**Modularized**
+**Jetpack Compose UI**  
 **Currency conversion** using live exchange rates from [Fixer.io](https://fixer.io/)  
 **MVVM Architecture** for clean code organization  
 **Retrofit** for network requests  
@@ -41,3 +42,11 @@ The application follows the design below as closely as possible:
    ```sh
    git clone https://github.com/RotimiDev/assessment-cowrywise.git
    cd assessment-cowrywise
+
+2. Open in Android Studio
+
+3. Build & Run the Project
+
+4. Select an emulator or a real device
+5. Click Run ▶️
+6. To check Unit test do the command ./gradlew test
